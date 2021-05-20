@@ -16,3 +16,8 @@ __Tools:__
  - The total paid membership 5 start reviews are 48. The total 5 star reviews is 15711. 
 3) What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
  - 0.3% of the Vine reviews are 5-stars, the 99.7% remaing percentage is for non-Vine people that were un-paid.
+ 
+## Summary 
+The data suggests there is no evidence for a positive bias and increased ratings due to membership. With only 0.3% of 5 star reviews being made my members, this is not sufficient informartion required to suggest a positive bias. Further analysis could start by repeating this process for the remaining rating levels (stars) to compare and contrast these percentages. 
+
+
