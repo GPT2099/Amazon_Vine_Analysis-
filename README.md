@@ -18,6 +18,6 @@ __Tools:__
  - 0.3% of the Vine reviews are 5-stars, the 99.7% remaing percentage is for non-Vine people that were un-paid.
  
 ## Summary 
-The data suggests there is no evidence for a positive bias and increased ratings due to membership. With only 0.3% of 5 star reviews being made my members, this is not sufficient informartion required to suggest a positive bias. Further analysis could start by repeating this process for the remaining rating levels (stars) to compare and contrast these percentages. 
+The data suggests there is no evidence for a positive bias and increased ratings due to membership. With only 0.3% of 5 star reviews being made by members, this is not sufficient informartion required to suggest a positive bias. Further analysis could start by repeating this process for the remaining rating levels (stars) to compare and contrast these percentages. 
 
 
